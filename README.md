@@ -1,7 +1,7 @@
 
 # Conversor de PDF para PDF-A
 
-Este projeto é um simples aplicativo desktop construído com [Tauri](https://tauri.app/), um framework para construção de aplicações desktop seguras e leves usando tecnologias web. Ele permite converter arquivos PDF para o formato PDF/A, que é um formato otimizado para arquivamento de longo prazo. Este aplicativo utiliza o [Ghostscript](https://www.ghostscript.com/) para a conversão de arquivos.
+Este projeto é um simples aplicativo desktop construído com [Tauri](https://tauri.app/), Ele permite converter arquivos PDF para o formato PDF/A, que é um formato otimizado para arquivamento de longo prazo. Este aplicativo utiliza o [Ghostscript](https://www.ghostscript.com/) para a conversão de arquivos.
 
 ## Recursos
 
