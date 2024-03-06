@@ -1,0 +1,49 @@
+.container {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #2f2f2f;
+  color: #f6f6f6;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  text-align: center;
+}
+
+.input-group, .output-group {
+  margin-bottom: 1rem;
+}
+
+.file-list ul {
+  max-height: 200px;
+  overflow-y: auto;
+  text-align: left;
+  padding-inline-start: 20px;
+  color: #f6f6f6;
+}
+
+.convert-button, button {
+  background-color: #396cd8;
+  color: white;
+  padding: 10px 20px;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: 8px;
+  margin-top: 1rem;
+  transition: background-color 0.3s;
+}
+
+.convert-button:hover, button:hover {
+  background-color: #2f5cb3;
+}
+
+.convert-button:disabled, button:disabled {
+  background-color: #555;
+}
+
+button {
+  background-color: #555;
+  margin: 10px;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
