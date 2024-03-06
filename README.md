@@ -23,14 +23,10 @@ Para executar este projeto em sua máquina local, siga os passos abaixo:
 
 1. **Clone o Repositório**
 
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
-   ```
 
 2. **Instale as Dependências**
 
-   Certifique-se de que você tem [Node.js](https://nodejs.org/) e [Yarn](https://yarnpkg.com/) (ou npm) instalados em sua máquina. Em seguida, execute:
+   Certifique-se de que você tem [Node.js](https://nodejs.org/), [Yarn](https://yarnpkg.com/) (ou npm) e todos os rqeuisitos definidos aqui(https://tauri.app/v1/guides/getting-started/prerequisites) instalados em sua máquina. Em seguida, execute dentro do diretorio da aplicação:
 
    ```bash
    yarn install
