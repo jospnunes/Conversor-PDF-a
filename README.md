@@ -26,7 +26,7 @@ Para executar este projeto em sua máquina local, siga os passos abaixo:
 
 2. **Instale as Dependências**
 
-   Certifique-se de que você tem [Node.js](https://nodejs.org/), [Yarn](https://yarnpkg.com/) (ou npm) e todos os rqeuisitos definidos aqui(https://tauri.app/v1/guides/getting-started/prerequisites) instalados em sua máquina. Em seguida, execute dentro do diretorio da aplicação:
+   Certifique-se de que você tem [Node.js](https://nodejs.org/), [Yarn](https://yarnpkg.com/) (ou npm) e todos os requisitos definidos aqui(https://tauri.app/v1/guides/getting-started/prerequisites) na sua máquina. Em seguida, execute dentro do diretorio da aplicação:
 
    ```bash
    yarn install
