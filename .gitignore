@@ -71,7 +71,7 @@ TODO.md
 
 # rust compiled folders
 target
-
+dist
 # lock for libs
 #/Cargo.lock Committed to prevent msrv checks from failing
 /tooling/bench/tests/Cargo.lock

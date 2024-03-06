@@ -47,7 +47,8 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "com.josp.pdfa"
+      "identifier": "com.josp.pdfa",
+      "icon": ["icons/icon.ico"]
     }
   }
 }
